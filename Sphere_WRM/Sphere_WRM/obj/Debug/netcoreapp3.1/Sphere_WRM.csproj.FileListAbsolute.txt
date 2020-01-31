@@ -1,0 +1,11 @@
+C:\Users\gismo\Source\Repos\Sphere_WRM\Sphere_WRM\bin\Debug\netcoreapp3.1\Sphere_WRM.exe
+C:\Users\gismo\Source\Repos\Sphere_WRM\Sphere_WRM\bin\Debug\netcoreapp3.1\Sphere_WRM.deps.json
+C:\Users\gismo\Source\Repos\Sphere_WRM\Sphere_WRM\bin\Debug\netcoreapp3.1\Sphere_WRM.runtimeconfig.json
+C:\Users\gismo\Source\Repos\Sphere_WRM\Sphere_WRM\bin\Debug\netcoreapp3.1\Sphere_WRM.runtimeconfig.dev.json
+C:\Users\gismo\Source\Repos\Sphere_WRM\Sphere_WRM\bin\Debug\netcoreapp3.1\Sphere_WRM.dll
+C:\Users\gismo\Source\Repos\Sphere_WRM\Sphere_WRM\bin\Debug\netcoreapp3.1\Sphere_WRM.pdb
+C:\Users\gismo\Source\Repos\Sphere_WRM\Sphere_WRM\obj\Debug\netcoreapp3.1\Sphere_WRM.csprojAssemblyReference.cache
+C:\Users\gismo\Source\Repos\Sphere_WRM\Sphere_WRM\obj\Debug\netcoreapp3.1\Sphere_WRM.AssemblyInfoInputs.cache
+C:\Users\gismo\Source\Repos\Sphere_WRM\Sphere_WRM\obj\Debug\netcoreapp3.1\Sphere_WRM.AssemblyInfo.cs
+C:\Users\gismo\Source\Repos\Sphere_WRM\Sphere_WRM\obj\Debug\netcoreapp3.1\Sphere_WRM.dll
+C:\Users\gismo\Source\Repos\Sphere_WRM\Sphere_WRM\obj\Debug\netcoreapp3.1\Sphere_WRM.pdb
